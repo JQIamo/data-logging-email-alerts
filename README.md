@@ -1,2 +1,3 @@
 # data-logging-email-alerts
-Python script for detecting data anomalies and sending alerts 
+Filters outliers using MAD, then sends an email alert if any data values are above a maximum threshold or below a minimum threshold
+
